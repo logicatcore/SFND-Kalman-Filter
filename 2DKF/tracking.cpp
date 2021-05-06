@@ -1,6 +1,6 @@
 #include "tracking.h"
 #include <iostream>
-#include "Dense"
+#include "../Eigen/Dense"
 
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
